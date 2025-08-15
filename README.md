@@ -1,4 +1,4 @@
-# SPARX Technologies - React Frontend
+# SPARX Technologies
 
 A modern, responsive website for SPARX Technologies built with React and Tailwind CSS.
 
