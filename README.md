@@ -9,7 +9,6 @@ A modern, responsive website for SPARX Technologies built with React and Tailwin
 - 📱 **Fully Responsive** design
 - ⚡ **Interactive Components** with smooth animations
 - 🔧 **Component-based Architecture**
-- 🎯 **SEO Optimized**
 
 ## Interactive Features
 
